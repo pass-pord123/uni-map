@@ -1,0 +1,1 @@
+<view class="content"><map longitude="{{a}}" latitude="{{b}}" scale="{{c}}" markers="{{d}}" polyline="{{e}}"></map><image class="action-button" bindtap="{{f}}" src="/static/location.png"/></view>
